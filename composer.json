@@ -1,0 +1,14 @@
+{
+    "name": "trial-thrift",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tamanobi",
+            "email": "tamanobi@gmail.com"
+        }
+    ],
+    "require": {
+        "apache/thrift": "^0.12.0"
+    }
+}
